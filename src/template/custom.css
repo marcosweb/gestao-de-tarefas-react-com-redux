@@ -1,0 +1,16 @@
+.btn {
+    margin: 5px;
+}
+
+.task-marked {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.table-actions {
+    width: 120px;
+}
+
+.todo-form {
+    padding-bottom: 60px;
+}
